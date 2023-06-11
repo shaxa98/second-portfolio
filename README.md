@@ -2,7 +2,7 @@
 
 ## Final Result of main page
 
-![Preview]()
+![Preview](./img/main-page.png "Title")
 
 ## Build With
 
@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Preview]()
+[Preview](https://shaxa98.github.io/second-portfolio/)
 
 **Deployment**:+1:
 
@@ -40,4 +40,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://shaxa98.github.io/second-portfolio/) licensed.
